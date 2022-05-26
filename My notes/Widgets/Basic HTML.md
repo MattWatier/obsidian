@@ -1,0 +1,1 @@
+The basic html widget uses the TinyMCE.  
